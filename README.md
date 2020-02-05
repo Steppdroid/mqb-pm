@@ -82,6 +82,7 @@ Some phones kill the datafeed as soon as the screen is locked. This doesn't happ
 
 # Currently confirmed working firmware versions:
 **MIB2 Std**
+- VW 0890
 - Seat 0462
 - Skoda 0468
 
